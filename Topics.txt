@@ -1,0 +1,21 @@
+EC2
+S3
+RDS
+VPC
+ElasticBeanStalk
+IAM
+Lamda Expression
+Glacier
+Elastic Block Storage
+Amazon Cloud Front
+AWS Cloud Formation
+Dynamo DB
+SNS
+SQS
+Shared Responsiblity Model
+EMR
+Amazon Direct Connect
+Cloud Trail
+Route 53
+AutoScalling
+RDS-PIOPS
